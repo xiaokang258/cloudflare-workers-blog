@@ -2,7 +2,7 @@
 const OPT = {
     "user" : "admin", //后台密码请修改
     "password" : "net", //后台密码
-    "siteDomain" : "325208.xyz",// 域名(不带https 也不带/)
+    "siteDomain" : "bolg.325208.xyz",// 域名(不带https 也不带/)
     "siteName" : "景积のblog",//博客名称
     "siteDescription":"A Blog Powered By Cloudflare Workers and KV",//博客描述
     "keyWords":"clonetudflare,KV,workers,blog",//关键字
